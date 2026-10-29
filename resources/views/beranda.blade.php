@@ -127,7 +127,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('images/rpl1 .jpg') }}" class="d-block w-100" alt="..." height="300">
+                <img src="{{ asset('images/rpl.jpg') }}" class="d-block w-100" alt="..." height="300">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Selamat Datang di Website SMK PGRI WLINGI</h5>
                     <p>Bersama kita wujudkan generasi yang cerdas, berakhlak, dan berprestasi</p>
